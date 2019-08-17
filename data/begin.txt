@@ -1,0 +1,1 @@
+<b>Enter city name to find out information about it:</b>

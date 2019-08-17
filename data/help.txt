@@ -1,0 +1,4 @@
+<b>Basic commands</b>
+/cities - Show information about cities.
+/help - Help menu.
+
